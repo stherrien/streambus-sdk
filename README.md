@@ -328,15 +328,11 @@ Contributions are welcome! Please see the [main StreamBus repository](https://gi
 
 ## License
 
-MIT License - see LICENSE file for details
+Apache License 2.0 - see LICENSE file for details
 
 ## Support
 
 - **Documentation**: [StreamBus Docs](https://github.com/shawntherrien/streambus/docs)
-- **Issues**: [GitHub Issues](https://github.com/shawntherrien/streambus-sdk/issues)
+- **Issues**: [GitHub Issues](https://github.com/stherrien/streambus-sdk/issues)
 - **Community**: [Discussions](https://github.com/shawntherrien/streambus/discussions)
-
-## Related Projects
-
-- [StreamBus](https://github.com/shawntherrien/streambus) - The main broker implementation
-- [py-streambus-sdk](https://github.com/shawntherrien/py-streambus-sdk) - Python SDK (coming soon)
+- **StreamBus Broker**: [github.com/shawntherrien/streambus](https://github.com/shawntherrien/streambus)
