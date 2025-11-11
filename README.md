@@ -15,7 +15,7 @@ The official Go SDK for [StreamBus](https://github.com/shawntherrien/streambus),
 ## Installation
 
 ```bash
-go get github.com/stherrien/streambus-sdk
+go get github.com/gstreamio/streambus-sdk
 ```
 
 ## Quick Start
@@ -27,7 +27,7 @@ package main
 
 import (
     "log"
-    "github.com/stherrien/streambus-sdk/client"
+    "github.com/gstreamio/streambus-sdk/client"
 )
 
 func main() {
@@ -70,7 +70,7 @@ package main
 
 import (
     "log"
-    "github.com/stherrien/streambus-sdk/client"
+    "github.com/gstreamio/streambus-sdk/client"
 )
 
 func main() {
@@ -116,7 +116,7 @@ import (
     "context"
     "log"
     "time"
-    "github.com/stherrien/streambus-sdk/client"
+    "github.com/gstreamio/streambus-sdk/client"
 )
 
 func main() {
@@ -333,6 +333,6 @@ Apache License 2.0 - see LICENSE file for details
 ## Support
 
 - **Documentation**: [StreamBus Docs](https://github.com/shawntherrien/streambus/docs)
-- **Issues**: [GitHub Issues](https://github.com/stherrien/streambus-sdk/issues)
+- **Issues**: [GitHub Issues](https://github.com/gstreamio/streambus-sdk/issues)
 - **Community**: [Discussions](https://github.com/shawntherrien/streambus/discussions)
 - **StreamBus Broker**: [github.com/shawntherrien/streambus](https://github.com/shawntherrien/streambus)

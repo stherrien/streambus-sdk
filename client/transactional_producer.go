@@ -7,8 +7,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/shawntherrien/streambus-sdk/protocol"
-	"github.com/shawntherrien/streambus-sdk/transaction"
+	"github.com/gstreamio/streambus-sdk/protocol"
+	"github.com/gstreamio/streambus-sdk/transaction"
 )
 
 // TransactionalProducer provides exactly-once semantics for message production

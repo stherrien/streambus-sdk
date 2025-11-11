@@ -1,3 +1,3 @@
-module github.com/shawntherrien/streambus-sdk
+module github.com/gstreamio/streambus-sdk
 
 go 1.21

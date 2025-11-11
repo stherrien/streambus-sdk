@@ -7,8 +7,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/shawntherrien/streambus-sdk/consumer/group"
-	"github.com/shawntherrien/streambus-sdk/protocol"
+	"github.com/gstreamio/streambus-sdk/consumer/group"
+	"github.com/gstreamio/streambus-sdk/protocol"
 )
 
 // GroupConsumer is a consumer that coordinates with other consumers in a group

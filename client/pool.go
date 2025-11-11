@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/shawntherrien/streambus-sdk/protocol"
+	"github.com/gstreamio/streambus-sdk/protocol"
 )
 
 // connection represents a single connection to a broker

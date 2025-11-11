@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/shawntherrien/streambus-sdk/client"
+	"github.com/gstreamio/streambus-sdk/client"
 )
 
 func main() {
